@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/eRRDzlec7WVCKpNCrx/giphy.gif"/>
+  <img src="https://media.giphy.com/media/4R7no5e7E7OoeEGWjr/giphy.gif"/>
 
   <h2>Hi, I'm Uy ✨</h2>
 
