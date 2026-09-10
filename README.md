@@ -3,7 +3,7 @@
 
   <h2>🌸 Hi, I'm Uy ✨</h2>
 
-  <h3>🗿 I'm in recursion with no base case 👾</h3>
+  <h3>🦆 I'm in recursion with no base case 👾</h3>
   
   <h3>🍜 &nbsp; C++ &nbsp; 🍲 &nbsp; DSA &nbsp; 🍙</h3>
 
