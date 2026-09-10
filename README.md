@@ -5,7 +5,7 @@
 
   <h3>🦆 I'm in recursion with no base case 👾</h3>
   
-  <h3>🍜 &nbsp; C++ &nbsp; 🍲 &nbsp; DSA &nbsp; 🍙</h3>
+  <h3>🍜 &nbsp; C++ &nbsp; 🍲 &nbsp; DSA &nbsp; 🍣</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78C9B&center=true&vCenter=true&width=600&lines=What+does+the+R+in+Recursion+stand+for?;Recursion.🐧"/>
 
