@@ -25,11 +25,11 @@
 
 ## 🍀 Github Commits
 <div align="center">
-  <a target="_blank" href="https://github.com/quangquynguyenvo">
+  <a target="_blank" href="https://github.com/nguyenuy1409">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nguyenuy1409/nguyenuy1409/blob/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/nguyenuy1409/nguyenuy1409/blob/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://github.com/nguyenuy1409/nguyenuy1409/blob/output/github-contribution-grid-snake.svg">
     </picture>
   </a>
 </div>
